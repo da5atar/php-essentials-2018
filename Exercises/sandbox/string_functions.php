@@ -3,7 +3,7 @@
 	
 <html lang="en">
 	<head>
-		<title>Hello World</title>  
+		<title>Common string Functions in PHP</title>
 	</head>
 	<body>
 	<?php
